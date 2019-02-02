@@ -7,3 +7,6 @@ I have jotted down what all I will accomplish  for the next week and I will upda
 
 ## Day 1:  01-Feb-2019
 I have finished 3 chapters of Grokking Deep Learning and have implemented a small neural network.
+
+## Day 2:  02-Feb-2019
+I have finished 2 more chapters of Grokking Deep Learning and read a paper on backpropogation.
