@@ -10,3 +10,6 @@ I have finished 3 chapters of Grokking Deep Learning and have implemented a smal
 
 ## Day 2:  02-Feb-2019
 I have finished 2 more chapters of Grokking Deep Learning and read a paper on backpropogation.
+
+## Day 3: 03-Feb-2019
+I went and looked into the documentation for pytorch and read a few blogs about it.
