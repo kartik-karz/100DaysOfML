@@ -16,3 +16,6 @@ I went and looked into the documentation for pytorch and read a few blogs about 
 
 ## Day 4: 04-Feb-2019
 I started making a flower classifier without any documentation.
+
+## Day 5: 05-Feb-2019
+I continued my attempt but couldn't quite make it so decided that I will have to look at another simple model
