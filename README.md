@@ -19,3 +19,7 @@ I started making a flower classifier without any documentation.
 
 ## Day 5: 05-Feb-2019
 I continued my attempt but couldn't quite make it so decided that I will have to look at another simple model
+
+## Day 6: 06-Feb-2019
+I understood the things I was missing and continued my attempt at the classifier
+
