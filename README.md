@@ -23,3 +23,6 @@ I continued my attempt but couldn't quite make it so decided that I will have to
 ## Day 6: 06-Feb-2019
 I understood the things I was missing and continued my attempt at the classifier
 
+## Day 7: 07-Feb-2019
+I completed the classifier but failed the challenge as I had to look at documentation for many things but it was fun, looking back I think it was a stupid challenge. (lol I am not a sore loser okay?)
+I completed it using Vgg16 but got less accuracy will try another pretrained model later.
