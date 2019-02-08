@@ -26,3 +26,6 @@ I understood the things I was missing and continued my attempt at the classifier
 ## Day 7: 07-Feb-2019
 I completed the classifier but failed the challenge as I had to look at documentation for many things but it was fun, looking back I think it was a stupid challenge. (lol I am not a sore loser okay?)
 I completed it using Vgg16 but got less accuracy will try another pretrained model later.
+
+## Day 8: 08-Feb-2019
+I tried using Image transformation on the dataset and got much more accuracy than I expected but couldn't train it for a longer time due to Google Colab lol but anyway I will look at Resnet tom.
