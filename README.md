@@ -29,3 +29,6 @@ I completed it using Vgg16 but got less accuracy will try another pretrained mod
 
 ## Day 8: 08-Feb-2019
 I tried using Image transformation on the dataset and got much more accuracy than I expected but couldn't train it for a longer time due to Google Colab lol but anyway I will look at Resnet tom.
+
+## Day 9: 09:Feb-2019
+I have tried it with Resnet152 and it took a lot of time but gave me a better accuracy.
