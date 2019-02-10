@@ -32,3 +32,10 @@ I tried using Image transformation on the dataset and got much more accuracy tha
 
 ## Day 9: 09:Feb-2019
 I have tried it with Resnet152 and it took a lot of time but gave me a better accuracy.
+
+## Day 10: 10-Feb-2018
+I have not done much today and just went ahead and watched a few videos of ML implementation and looked at YOLO,
+I will read the paper later today and I have classes from tomorrow so am updating earlier.
+
+> As I said earlier my classes will start from tomorrow and I have decided to commit my logs everyday but only push it
+> once a week and not after 2 days as I had done till now.
