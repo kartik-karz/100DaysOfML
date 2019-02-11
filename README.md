@@ -39,3 +39,8 @@ I will read the paper later today and I have classes from tomorrow so am updatin
 
 > As I said earlier my classes will start from tomorrow and I have decided to commit my logs everyday but only push it
 > once a week and not after 2 days as I had done till now.
+
+## Day 11: 11-Feb-2018
+I didn't read YOLO yesterday but read it today and HOLY SHIT! it's one of the most entertaining paper I have read!
+I couldn't belive that someone could write a paper so informally it was a fun read! I will see if I can implement it
+though it looks easy but looking at the videos it's so accurate that I think the author just made it look easy.
