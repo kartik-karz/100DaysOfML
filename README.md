@@ -44,3 +44,8 @@ I will read the paper later today and I have classes from tomorrow so am updatin
 I didn't read YOLO yesterday but read it today and HOLY SHIT! it's one of the most entertaining paper I have read!
 I couldn't belive that someone could write a paper so informally it was a fun read! I will see if I can implement it
 though it looks easy but looking at the videos it's so accurate that I think the author just made it look easy.
+
+## Day 12: 12-Feb-2018
+Lol, It difficult and there was a lot of stuff involved and looking at a blog to implement it I had to go through
+many blogs and found one which implemented it in pytorch and since the original code is in c and written with the lib darknet
+he showed how to make it in pytorch and after reading it I thought I have to return to it later as I was having a bit of a hard time properly analysing it.
