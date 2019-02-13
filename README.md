@@ -49,3 +49,6 @@ though it looks easy but looking at the videos it's so accurate that I think the
 Lol, It difficult and there was a lot of stuff involved and looking at a blog to implement it I had to go through
 many blogs and found one which implemented it in pytorch and since the original code is in c and written with the lib darknet
 he showed how to make it in pytorch and after reading it I thought I have to return to it later as I was having a bit of a hard time properly analysing it.
+
+# Day 13: 13-Feb-2019
+I read the 6th chapter of Grokking Deep learning after a long time.
