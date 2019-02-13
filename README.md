@@ -33,19 +33,19 @@ I tried using Image transformation on the dataset and got much more accuracy tha
 ## Day 9: 09:Feb-2019
 I have tried it with Resnet152 and it took a lot of time but gave me a better accuracy.
 
-## Day 10: 10-Feb-2018
+## Day 10: 10-Feb-2019
 I have not done much today and just went ahead and watched a few videos of ML implementation and looked at YOLO,
 I will read the paper later today and I have classes from tomorrow so am updating earlier.
 
 > As I said earlier my classes will start from tomorrow and I have decided to commit my logs everyday but only push it
 > once a week and not after 2 days as I had done till now.
 
-## Day 11: 11-Feb-2018
+## Day 11: 11-Feb-2019
 I didn't read YOLO yesterday but read it today and HOLY SHIT! it's one of the most entertaining paper I have read!
 I couldn't belive that someone could write a paper so informally it was a fun read! I will see if I can implement it
 though it looks easy but looking at the videos it's so accurate that I think the author just made it look easy.
 
-## Day 12: 12-Feb-2018
+## Day 12: 12-Feb-2019
 Lol, It difficult and there was a lot of stuff involved and looking at a blog to implement it I had to go through
 many blogs and found one which implemented it in pytorch and since the original code is in c and written with the lib darknet
 he showed how to make it in pytorch and after reading it I thought I have to return to it later as I was having a bit of a hard time properly analysing it.
