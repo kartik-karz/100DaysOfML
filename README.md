@@ -52,3 +52,6 @@ he showed how to make it in pytorch and after reading it I thought I have to ret
 
 # Day 13: 13-Feb-2019
 I read the 6th chapter of Grokking Deep learning after a long time.
+
+## Day 14: 14-Feb-2019
+I watched a few videos from coursera from the second course from Andrew ng.
