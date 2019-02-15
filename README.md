@@ -55,3 +55,6 @@ I read the 6th chapter of Grokking Deep learning after a long time.
 
 ## Day 14: 14-Feb-2019
 I watched a few videos from coursera from the second course from Andrew ng.
+
+## Day 15: 15-Feb-2019
+I did a few more videos from the coursera course and also read an interesting article Titled Yes, you should understand backprop by Andrej Karpathy a must read!
