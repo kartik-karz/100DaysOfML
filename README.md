@@ -58,3 +58,6 @@ I watched a few videos from coursera from the second course from Andrew ng.
 
 ## Day 15: 15-Feb-2019
 I did a few more videos from the coursera course and also read an interesting article Titled Yes, you should understand backprop by Andrej Karpathy a must read!
+
+## Day 16: 16-Feb-2019
+I attended a meetup and we did codelabs on utilizing google cloud api's including vision,nlp,translation and a lot more. Since that could be counted towards the 100DaysOfML (and I was tired as well) I didn't do anything else.
